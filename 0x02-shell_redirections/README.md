@@ -1,5 +1,6 @@
 # Shell Redirections
 
+
 * 0-hello_world		(script that prints “Hello, World”, followed by a new line to the standard output)
 * 1-confused_smiley	(script that displays a confused smiley "(Ôo)')
 * 2-hellofile		(displays the content of the /etc/passwd file)
@@ -10,3 +11,4 @@
 * 7-file		(creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line)
 * 8-cwd_state		(writes into the file ls_cwd_content the results of the command ls -la)
 * 9-duplicate_last_line	(duplicates the last line of the file iacta)
+* 10-no_more_js		(script that deletes all the regular files (not the directories) with a .js)
